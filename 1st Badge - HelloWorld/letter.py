@@ -1,0 +1,1 @@
+print("28/02/24 \n Me siento confiado. Quiero hacer un proyecto brutal para desarrollar mis habilidades como programador en general, y con Python en particular.\n Voy a darlo todo para ser un programador excelente y poder resolver problemas difíciles a través del código 🌹🌹🌹")
