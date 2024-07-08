@@ -4,4 +4,4 @@
 
 exam_st_date = (11, 12, 2014)
 
-print("Los exámenes comenzarán el día: %i/ %i / %i" % exam_st_date)
+print("Los exámenes comenzarán el día: %i / %i / %i" % exam_st_date)

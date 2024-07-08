@@ -7,7 +7,7 @@
 a = input("Introduce los números: ")
 
 list = a.split(',')
-tuple = a.split(',')
+tuple = (list)
 
-print(list)
-print(tuple)
+print('Lista',list)
+print('Tupla',tuple)

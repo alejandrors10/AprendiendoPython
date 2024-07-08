@@ -4,4 +4,4 @@
 
 a = input("Introduce el nombre del archivo: ")
 ext = a.split('.')
-print('La extensión del archivo es' + repr(ext[1]))
+print('La extensión del archivo es ' + repr(ext[1]))
